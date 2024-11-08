@@ -1,8 +1,8 @@
 ---
+title: Simplicity
+author: Arthur Conan Doyle
+category: literature
 layout: post
-title: "Simplicity"
-author: "John Montgomery"
-categories: literature
 ---
 
 Over the past years, I have been deeply driven by simplicity.
