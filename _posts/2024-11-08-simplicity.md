@@ -2,7 +2,7 @@
 layout: post
 title: "Simplicity"
 author: "John Montgomery"
-categories: basics
+categories: literature
 ---
 
 Over the past years, I have been deeply driven by simplicity.
